@@ -1,0 +1,341 @@
+,Property Name,Price,House Type,Area in sq ft,No. of Bedrooms,No. of Bathrooms,No. of Receptions,Location,City/County,Postal Code
+1,Borneo Street,775000,Flat / Apartment,863,2,2,2,Putney,London,SW15 1QQ
+2,Elizabeth Place,625000,Flat / Apartment,902,2,2,2, Esher,Surrey,KT10 8AP
+3,Christchurch Road,1825000,House,2100,4,4,4,,London,SW14 7AB
+4,Adelphi Court,400000,Flat / Apartment,708,2,2,2,Chiswick,London,W4 4QF
+5,Horizons Tower,1250000,Flat / Apartment,1203,2,2,2, Canary Wharf,London,E14 9RG
+6,Portman Avenue,1350000,House,1830,5,5,5,,London,SW14 8NX
+7,Boat Race House,1320000,New development,1452,2,2,2,63 Mortlake High Street,London,SW14 8HL
+8,Perrymead Street,2950000,House,3144,6,6,6,Fulham,London,SW6 3SW
+9,Eastbury Road,975000,House,1200,3,3,3,Northwood,Middlesex,HA6 3AJ
+10,Parkholme Road,1525000,House,1750,4,4,4,Hackney,London,E8 3AQ
+11,Darlaston Road,765000,New development,864,2,2,2,Wimbledon,London,SW19 4LF
+12,Atheldene Road,1100000,House,1632,3,3,3, Wandsworth,London,SW18 3BN
+13,Octavia House,615000,Flat / Apartment,797,1,1,1,Imperial Wharf,Fulham,SW6 2FH
+14,Westbridge Road,5250000,House,4144,6,6,6,Battersea Park,London,SW11 3PW
+15,The Belvedere,2750000,Flat / Apartment,2136,3,3,3, Chelsea,London,SW10 0XA
+16,Fernside Road,1350000,House,1805,4,4,4,,London,SW12 8LJ
+17,Aberdeen Road,650000,Flat / Apartment,667,1,1,1,,London,N5 2XA
+18,Alwyne Road,3500000,House,2216,4,4,4,Islington,London,N1 2HW
+19,Wimbledon Park Road,575000,Flat / Apartment,983,2,2,2,Putney,London,SW18 5SJ
+20,Campden Hill Court,5000000,Flat / Apartment,2248,4,4,4,Campden Hill Road,London,W8 7HX
+21,Speldhurst Road,1450000,House,1667,4,4,4,South Hackney,London,E9 7EH
+22,Rosaville Road,1650000,House,1684,4,4,4,,London,SW6 7BN
+23,Old York Road,450000,Flat / Apartment,458,1,1,1,,London,SW18 1SS
+24,Chipstead Street,2300000,House,1912,3,3,3, Fulham,London,SW6 3SS
+25,Sylvan Gardens,1499950,House,2982,5,5,5,Surbiton,Surrey,KT6 6PP
+26,Nottingham Place,3500000,Flat / Apartment,1956,3,3,3,Marylebone,London,W1U 5NH
+27,Choumert Square,525000,House,540,1,1,1,,London,SE15 4RE
+28,Lillie Square,3650000,Penthouse,1700,4,4,4,,London,SW6 1UE
+29,Embassy Works,625000,Flat / Apartment,541,1,1,1,10-12 Lawn Lane,London,SW8 1UD
+30,Manor Road,1750000,House,3162,5,5,5,,Lambourne End,RM4 1NB
+31,Chiswick Village,535000,Flat / Apartment,678,2,2,2,,London,W4 3DF
+32,Gerard Road,2750000,House,2637,4,4,4,Barnes,London,SW13 9RG
+33,Overstrand Mansions,1685000,Flat / Apartment,1318,2,2,2,Prince of Wales Drive,London,SW11 4EU
+34,Langroyd Road,1195000,House,1823,5,5,5,,London,SW17 7PL
+35,Newnham House,470000,Flat / Apartment,885,2,2,2, Loughton,Essex,IG10 4JH
+36,Randolph Avenue,1100000,Flat / Apartment,908,2,2,2,,London,W9 1PF
+37,Schubert Road,1650000,House,2270,4,4,4,Putney,London,SW15 2QS
+38,Roy Road,1000000,House,2544,4,4,4,Northwood,Middlesex,HA6 1EH
+39,Doughty Street,3000000,House,3325,7,7,7,Bloomsbury,London,WC1N 2AA
+40,St. Georges Wharf,1500000,Flat / Apartment,1364,3,3,3,6 Shad Thames,London,SE1 2YS
+41,Corbiere Court,675000,House,586,2,2,2,Wimbledon,London,SW19 4ND
+42,Mandrake Road,1200000,House,1746,5,5,5,,London,SW17 7PX
+43,Tantallon Road,625000,Flat / Apartment,663,2,2,2,,London,SW12 8DG
+44,Finchley Road,950000,Flat / Apartment,1241,3,3,3,Hampstead,London,NW3 7AA
+45,Erskine Road,398000,Flat / Apartment,292,1,1,1,Primrose Hill,London,NW3 3AJ
+46,United House,499000,New development,690,2,2,2,Mayflower Street,London,SE16 4JL
+47,Landmark Place At Tower Bridge,1799995,New development,1236,2,2,2,Water Lane,London,EC3R 6EA
+48,Anchor Brewhouse,1750000,Flat / Apartment,1189,2,2,2,50 Shad Thames,London,SE1 2LY
+49,Keepier Wharf,1900000,Flat / Apartment,1963,4,4,4, Limehouse,London,E14 8DH
+50,The Printworks,710000,New development,820,2,2,2, Crouch End,London,N8 9BU
+51,Shorrolds Road,625000,Flat / Apartment,664,2,2,2,,London,SW6 7TP
+52,Great Sutton Street,1395000,Flat / Apartment,1150,2,2,2,,London,EC1V 0DP
+53,Aberdeen Wharf,950000,Flat / Apartment,973,2,2,2,94 Wapping High Street,London,E1W 2ND
+54,Leopold Road,1850000,House,2503,5,5,5,Wimbledon,London,SW19 7JG
+55,Dolben Court,1200000,Flat / Apartment,1083,2,2,2,Montaigne Close,London,SW1P 4BB
+56,Cologne Road,765000,Duplex,992,2,2,2,St John's Hill,London,SW11 2AJ
+57,Oxford House,1450000,Flat / Apartment,1465,2,2,2,52 Parkside,London,SW19 5NE
+58,Hillborough Court,300000,Flat / Apartment,483,1,1,1,Livermere Road,London,E8 4LG
+59,Fulham Road,3950000,House,2815,4,4,4,,London,SW10 9UG
+60,Foundry House,699995,Flat / Apartment,791,2,2,2, Canary Wharf,London,E14 6NJ
+61,Hogarth Road,775000,Flat / Apartment,624,2,2,2,,London,SW5 0PT
+62,Downshire Hill,4250000,House,2402,3,3,3,Hampstead,London,NW3 1NT
+63,Lace House,525000,Flat / Apartment,619,1,1,1,Pamela Street,London,E8 4FL
+64,Grosvenor Avenue,1245000,House,1773,4,4,4,,London,SW14 8BX
+65,Haldon Road,700000,House,947,2,2,2,Putney,London,SW18 1QG
+66,St. Ann's Crescent,585000,Flat / Apartment,795,2,2,2,,London,SW18 2ND
+67,Barnsbury Square,2250000,House,1642,4,4,4,Barnsbury,London,N1 1JL
+68,John Adam Street,3100000,New development,1410,3,3,3,Covent Garden,London,WC2N 6LU
+69,Speldhurst Road,1250000,House,1395,4,4,4,Chiswick,London,W4 1BU
+70,Westfields Avenue,2500000,House,3491,6,6,6,Barnes,London,SW13 0AT
+71,Drapers Court,700000,Flat / Apartment,797,2,2,2,59 Lurline Gardens,London,SW11 4DF
+72,Wood Lane,3250000,House,2813,5,5,5,Highgate,London,N6 5UB
+73,Eltham Court,575000,New development,800,2,2,2, West Ealing,London,W13 8RA
+74,Ennismore Avenue,875000,Flat / Apartment,977,2,2,2,Chiswick,London,W4 1SE
+75,Ellerton Road,1700000,House,2374,5,5,5,Wandsworth,London,SW18 3NH
+76,Langroyd Road,1150000,House,1703,4,4,4,,London,SW17 7PL
+77,Lessar Avenue,1775000,House,2446,4,4,4,,London,SW4 9HJ
+78,Basilica Mews,2100000,New development,2132,4,4,4,,Thurleigh Road,SW12 8UF
+79,West Side Common,3950000,House,6186,6,6,6,Wimbledon,London,SW19 4UF
+80,Haven Place,1150000,House,2382,5,5,5, Esher,Surrey,KT10 9AQ
+81,Falcon Wharf,500000,Flat / Apartment,752,1,1,1, Battersea,London,SW11 3RY
+82,Birdhurst Road,775000,Flat / Apartment,1066,3,3,3,,London,SW18 1AR
+83,Coleherne Court,1495000,Flat / Apartment,971,2,2,2,The Little Boltons,London,SW5 0DL
+84,Rosaville Road,1650000,House,1648,4,4,4,,London,SW6 7BL
+85,Drakefield Road,2400000,House,3392,6,6,6,,London,SW17 8RR
+86,Green Lane,1275000,House,2711,5,5,5,Oxhey,Hertfordshire,WD19 4NJ
+87,Television Centre,750000,Flat / Apartment,580,1,1,1,101 Wood Lane,London,W12 7FT
+88,Perrymead Street,2990000,House,3175,6,6,6, Fulham,London,SW6 3SN
+89,Matthias Apartments,825000,Penthouse,1226,2,2,2,158 Northchurch Road,London,N1 3FL
+90,Mornington Crescent,499999,Flat / Apartment,477,1,1,1,,London,NW1 7RE
+91,Upper Park Road,3500000,House,2331,4,4,4,Belsize Park,London,NW3 2UP
+92,Upper Richmond Road West,1225000,House,1633,4,4,4,Richmond,Surrey,TW10 5DY
+93,Old York Road,475000,Flat / Apartment,598,1,1,1,,London,SW18 1TQ
+94,Rosscourt Mansions,1000000,Flat / Apartment,1156,3,3,3,Buckingham Palace Road,London,SW1W 0PR
+95,Lambourne Avenue,5995000,New development,6313,6,6,6,Wimbledon,London,SW19 7DW
+96,Lyncroft Mansions,799950,Flat / Apartment,956,2,2,2, West Hampstead,London,NW6 1JY
+97,Elsynge Road,850000,Flat / Apartment,1030,3,3,3,,London,SW18 2HR
+98,Thirlmere Road,395000,Flat / Apartment,771,1,1,1,,London,SW16 1QW
+99,Cleveley Court,398000,New development,461,1,1,1,Ashton Reach,London,SE16 7EP
+100,Provost Street,500000,Flat / Apartment,508,1,1,1,Shoreditch,London,N1 7NB
+101,Turner Place,845000,House,776,2,2,2,,London,SW11 1EB
+102,Monkhams Avenue,1195000,House,1720,4,4,4,Woodford Green,Essex,IG8 0HA
+103,Tedworth Square,1395000,Flat / Apartment,757,1,1,1,,London,SW3 4DY
+104,Tedworth Square,1850000,Flat / Apartment,981,2,2,2,,London,SW3 4DU
+105,Hamilton Terrace,8250000,House,3940,5,5,5,St. John's Wood,London,NW8 9RE
+106,Manchuria Road,1750000,House,2012,5,5,5,,London,SW11 6AF
+107,Ashley Park Avenue,2795000,House,5294,5,5,5,Walton-on-Thames,Surrey,KT12 1ER
+108,Blandfield Road,850000,House,953,2,2,2,,London,SW12 8BQ
+109,Gowing House,1150000,New development,1206,3,3,3, Wandsworth,London,SW18 1SZ
+110,Curzon Street,3750000,Flat / Apartment,1358,2,2,2,Mayfair,London,W1J 5HG
+111,Devonshire Place Mews,3250000,House,1738,3,3,3,Marylebone,London,W1G 6DD
+112,Pond Street,2450000,Penthouse,1879,3,3,3,Hampstead,London,NW3 2PS
+113,St. Petersburgh Place,5500000,House,4227,9,9,9,,London,W2 4LA
+114,Dempster Road,750000,Flat / Apartment,911,2,2,2, Wandsworth,London,SW18 1AS
+115,Sutherland Street,650000,Flat / Apartment,509,1,1,1,,London,SW1V 4LA
+116,Bramah House,1325000,New development,824,2,2,2,9 Gatliff Road,London,SW1W 8DP
+117,Layer Gardens,2150000,House,2887,6,6,6,Ealing,London,W3 9PR
+118,Pavilion Park,425000,New development,603,1,1,1, East Molesey,Surrey,KT8 9DX
+119,Marner Point,367500,Flat / Apartment,472,1,1,1, Bow,London,E3 3QE
+120,ICON7,600000,New development,758,2,2,2, Holloway,London,N7 0JN
+121,Lowndes Square,1495000,Flat / Apartment,886,2,2,2,,London,SW1X 9JU
+122,Haldane Road,1250000,House,1298,2,2,2,,London,SW6 7EU
+123,Eaton Rise,775000,New development,983,3,3,3,,London,W5 2HE
+124,Poppyfield House,460000,Flat / Apartment,767,2,2,2,Copperwood Place,London,SE10 8GD
+125,The View,1250000,Flat / Apartment,960,2,2,2, Westminster,London,SW1E 5BA
+126,Kersley Street,2350000,House,2183,5,5,5,,London,SW11 4PR
+127,Eamont Court,650000,Flat / Apartment,623,2,2,2,Shannon Place,London,NW8 7DN
+128,Stokenchurch Street,2750000,House,2605,6,6,6, Fulham,London,SW6 3TR
+129,Kingholme House,1375000,House,1335,3,3,3, Wimbledon,London,SW19 4RD
+130,Potter Street,775000,House,1469,4,4,4,Northwood,Middlesex,HA6 1QH
+131,Douglas Road,1900000,House,1703,5,5,5,Islington,London,N1 2LD
+132,Hyde Park Gardens Mews,2850000,House,1543,3,3,3,,London,W2 2NX
+133,Quarry Road,1550000,House,2326,5,5,5,Wandsworth,London,SW18 2QH
+134,Upper Wimpole Street,12750000,House,7526,6,6,6,Marylebone,London,W1G 6LG
+135,Maddox Street,1500000,Flat / Apartment,638,1,1,1,,London,W1S 2QJ
+136,Britannia Road,1500000,House,1115,3,3,3,Fulham,London,SW6 2HJ
+137,Boatman's Court,695000,New development,734,2,2,2, Putney,London,SW15 1PP
+138,Huntsmore House,1895000,Penthouse,1447,3,3,3,35 Pembroke Road,London,W8 6LZ
+139,Elm Tree Court,1075000,Flat / Apartment,1142,3,3,3,Elm Tree Road,London,NW8 9JT
+140,White Hart Lane,725000,Flat / Apartment,1242,2,2,2,Barnes,London,SW13 0PZ
+141,John Spencer Square,1350000,House,954,3,3,3,,London,N1 2LZ
+142,Christchurch Street,2550000,House,1266,3,3,3,,London,SW3 4AR
+143,Hollandgreen Place,3500000,New development,1577,2,2,2,,London,W8 6AX
+144,Haverhill Road,1350000,House,1603,5,5,5,,London,SW12 0HD
+145,Alexander Court,475000,Flat / Apartment,705,2,2,2,Wandsworth Common West Side,London,SW18 2EJ
+146,Rutland Gate,5750000,Flat / Apartment,2524,3,3,3,Knightsbridge,London,SW7 1PJ
+147,Great North Road,2375000,House,3116,6,6,6,Highgate,London,N6 4LU
+148,Dartmouth Park Road,850000,Flat / Apartment,743,2,2,2,,London,NW5 1SN
+149,Weston Green Road,1200000,House,1813,4,4,4,Thames Ditton,Surrey,KT7 0HY
+150,Carlton Mansions,975000,Flat / Apartment,950,2,2,2, Maida Vale,London,W9 1NP
+151,Barmouth Road,750000,Flat / Apartment,1176,3,3,3,Wandsworth,London,SW18 2DT
+152,Paddenswick Road,3750000,House,3391,5,5,5,Ravenscourt Park,London,W6 0UA
+153,Timber Yard,1000000,Flat / Apartment,902,1,1,1, Shoreditch,London,N1 6ND
+154,St. Augustines Road,499000,Flat / Apartment,451,1,1,1,Camden,London,NW1 9RN
+155,Bezier Apartments,4500000,Penthouse,2922,3,3,3,91 City Road,London,EC1Y 1AH
+156,Lock Side Way,575000,New development,1023,2,2,2,Royal Albert Wharf,London,E16 2QJ
+157,Almeric Road,699999,Flat / Apartment,970,2,2,2,,London,SW11 1HL
+158,Distillery Wharf,1050000,Flat / Apartment,1091,2,2,2, Regatta Lane,London,W6 9BF
+159,Petergate,750000,House,914,3,3,3,Wandsworth,London,SW11 2UE
+160,Christchurch Road,7000000,House,6388,8,8,8,East Sheen,London,SW14 7AN
+161,Orchard Rise,2650000,House,3009,5,5,5,Richmond,Surrey,TW10 5BX
+162,Chiswick High Road,695000,Flat / Apartment,784,2,2,2,Chiswick,London,W4 1TE
+163,Chaucer Road,1000000,House,1502,3,3,3,,London,W3 6DP
+164,Fitzjames Avenue,1500000,Flat / Apartment,1539,4,4,4,,London,W14 0RR
+165,Ripplevale Grove,1150000,Flat / Apartment,1074,3,3,3,Islington,London,N1 1HT
+166,Brompton Square,15495000,House,6359,7,7,7,,London,SW3 2AE
+167,Barmouth Road,1400000,House,2138,5,5,5,Wandsworth,London,SW18 2DT
+168,Mysore Road,1075000,Duplex,1295,3,3,3,,London,SW11 5RY
+169,Great Portland Street,4850000,Penthouse,1518,3,3,3,Fitzrovia,London,W1W 7LS
+170,St. Johns Wood Road,835000,Flat / Apartment,651,1,1,1,St. John's Wood,London,NW8 8RE
+171,East Hill,425000,Flat / Apartment,574,1,1,1,,London,SW18 2HG
+172,Rowditch Lane,600000,House,953,3,3,3,,London,SW11 5BX
+173,Cornwall Gardens,1450000,Flat / Apartment,963,2,2,2,South Kensington,London,SW7 4AX
+174,Louisville Road,1550000,House,2500,5,5,5,,London,SW17 8RL
+175,Herndon Road,725000,Flat / Apartment,875,2,2,2,,London,SW18 2DQ
+176,Viewpoint,559950,New development,546,1,1,1, Battersea,London,SW11 3RD
+177,Upshirebury Green,475000,House,890,2,2,2,Waltham Abbey,Essex,EN9 3SU
+178,Boscobel Place,4400000,House,2087,4,4,4,Belgravia,London,SW1W 9PE
+179,Bective Road,1245000,House,1450,4,4,4,Putney,London,SW15 2QA
+180,Flaxman House,870000,Flat / Apartment,635,1,1,1,1-3 Coleherne Road,London,SW10 9BS
+181,Airedale Road,1450000,House,1950,4,4,4,,London,SW12 8SF
+182,Magdalen Road,650000,Flat / Apartment,1077,2,2,2,Wandsworth,London,SW18 3NY
+183,Chasefield Road,875000,House,1132,4,4,4,Tooting,London,SW17 8LW
+184,Icon Apartments,525000,Flat / Apartment,1030,3,3,3,32 Duckett Street,London,E1 4FX
+185,Craven Gardens,1050000,Flat / Apartment,1831,3,3,3,Wimbledon,London,SW19 8LU
+186,Somerset Square,4250000,House,2631,2,2,2,,London,W14 8EE
+187,Lebanon Park,2750000,House,2999,7,7,7,Twickenham,Middlesex,TW1 3DG
+188,Sketch Apartments,380000,Flat / Apartment,550,1,1,1,42 White Horse Lane,London,E1 3FY
+189,Villiers Avenue,765000,House,1143,3,3,3,Surbiton,Surrey,KT5 8BH
+190,Regents Park Road,3000000,Flat / Apartment,1901,4,4,4,Primrose Hill,London,NW1 7TX
+191,Pond Place,9500000,House,4277,4,4,4,,London,SW3 6QJ
+192,Highbury Hill,999950,Flat / Apartment,840,2,2,2,Highbury,London,N5 1HH
+193,Southbank Place,1200000,New development,590,1,1,1, South Bank,London,SE1 7NJ
+194,Albert Mews,1250000,House,1877,4,4,4,Canary Wharf,London,E14 8EH
+195,Ballantine Street,1200000,House,1378,3,3,3, Wandsworth,London,SW18 1AL
+196,Lysias Road,1295000,House,1873,4,4,4,,London,SW12 8BW
+197,Courtfield Gardens,2250000,Flat / Apartment,1700,3,3,3,,London,SW5 0PD
+198,Hampshire Court,400000,Flat / Apartment,601,2,2,2, Barnes,London,SW13 0ES
+199,Irene Road,2150000,House,2087,5,5,5,Fulham,London,SW6 4AQ
+200,Elsham Road,825000,Flat / Apartment,869,2,2,2,Brook Green,London,W14 8HB
+201,Westfield,1625000,Flat / Apartment,1612,3,3,3, Hampstead,London,NW3 7SG
+202,Blackfriars Road,2985000,New development,1835,2,2,2,,London,SE1 9GD
+203,Herbert Crescent,4950000,Flat / Apartment,1581,3,3,3,Chelsea,London,SW1X 0HB
+204,Carronade Court,500000,Flat / Apartment,794,2,2,2, Holloway,London,N7 8GP
+205,Ashley Gardens,1200000,Flat / Apartment,1077,2,2,2, Victoria,London,SW1P 1HL
+206,Neville House,450000,Flat / Apartment,646,1,1,1,137 London Road,Twickenham,TW1 1EG
+207,Quarrendon Street,2300000,House,1956,3,3,3,,London,SW6 3SU
+208,Reynolds House,475000,Flat / Apartment,663,2,2,2,Approach Road,London,E2 9JR
+209,Palace Road,4250000,House,6632,7,7,7,East Molesey,Surrey,KT8 9DN
+210,Juer Street,1695000,House,2014,5,5,5,,London,SW11 4RF
+211,Harbut Road,735000,Flat / Apartment,969,2,2,2,,London,SW11 2RE
+212,Lord North Street,3900000,House,2139,3,3,3,,London,SW1P 3LD
+213,Grove Road,1350000,House,1890,4,4,4,East Molesey,Surrey,KT8 9JS
+214,Addison Gardens,775000,Flat / Apartment,1173,1,1,1,,London,W14 0DS
+215,Chiswick High Road,575000,New development,558,1,1,1,Chiswick,London,W4 5RG
+216,Eardley Crescent,385000,Studio,297,0,0,0,,London,SW5 9JT
+217,Thames Quay,2095000,Flat / Apartment,1528,3,3,3,Chelsea Harbour,London,SW10 0UY
+218,Streathbourne Road,2750000,House,4056,6,6,6,,London,SW17 8QZ
+219,Queensland Road,730000,Flat / Apartment,1061,3,3,3,,London,N7 7FF
+220,Boston Building,300000,Flat / Apartment,446,1,1,1, Lewisham,London,SE13 7RW
+221,Chiswick,1700000,House,2033,5,5,5,,London,W4 3HA
+222,Foxbourne Road,1675000,House,2346,5,5,5,,London,SW17 8EW
+223,Eastfields Avenue,775000,Flat / Apartment,820,2,2,2,Putney,London,SW18 1GN
+224,Gloucester Road,1400000,House,2151,5,5,5,Ealing,London,W5 4JB
+225,Clapham Common North Side,6995000,House,8880,7,7,7,Clapham,London,SW4 0AA
+226,Berkeley Tower,550000,Flat / Apartment,691,1,1,1, Canary Wharf,London,E14 8RP
+227,Mandalay Road,750000,Flat / Apartment,838,2,2,2,,London,SW4 9ED
+228,Ashley Park Avenue,2795000,House,4704,4,4,4,Walton-on-Thames,Surrey,KT12 1ET
+229,Balcombe Street,520000,Flat / Apartment,411,1,1,1,Marylebone,London,NW1 6HD
+230,Radnor Walk,3550000,House,1986,5,5,5,Chelsea,London,SW3 4BP
+231,Pavilion Park,995000,New development,1681,3,3,3, East Molesey,Surrey,KT8 9DX
+232,Tollington Way,432500,New development,538,1,1,1, London,N7 6QX,N7 6RG
+233,Pleydell Avenue,2000000,House,2315,5,5,5,,London,W6 0XX
+234,Geraldine Road,800000,Flat / Apartment,993,2,2,2,Wandsworth,London,SW18 2NS
+235,Holden Street,900000,House,1223,3,3,3,Battersea,London,SW11 5UP
+236,Packington Street,1295000,New development,1321,2,2,2,,London,N1 8RA
+237,Addison House,625000,Flat / Apartment,652,2,2,2, St John's Wood,London,NW8 9EL
+238,Eaton Rise,650000,New development,776,2,2,2,Ealing,London,W5 2HE
+239,Moreton Terrace,560000,Flat / Apartment,468,1,1,1,Pimlico,London,SW1V 2NS
+240,Oxford Road,710000,Flat / Apartment,730,2,2,2,Putney,London,SW15 2LF
+241,Oaklands,2500000,House,4012,5,5,5, Loughton,Essex,IG10 4RL
+242,Rathbone Square,2700000,New development,1087,3,3,3, Fitzrovia,London,W1T 1JN
+243,Mandeville Courtyard,525000,Flat / Apartment,775,1,1,1,142 Battersea Park Road,London,SW11 4NB
+244,Brunswick Gardens,9500000,House,4454,5,5,5,,London,W8 4AJ
+245,Highstone House,1550000,Flat / Apartment,1315,3,3,3,21 Highbury Crescent,London,N5 1RX
+246,Fladgate House,750000,Flat / Apartment,686,1,1,1, Battersea,London,SW11 8EU
+247,Klea Avenue,1795000,House,2314,5,5,5,,London,SW4 9HG
+248,Canaletto Tower,1150000,Flat / Apartment,882,2,2,2,257 City Road,London,EC1V 1AE
+249,Grafton Square,2000000,House,2226,4,4,4,,London,SW4 0DB
+250,Cadogan Place,4750000,House,2157,4,4,4,Belgravia,London,SW1X 9RP
+251,Compass House,675000,Flat / Apartment,1097,2,2,2,Smugglers Way,London,SW18 1DB
+252,Ardleigh Road,1399950,House,1748,4,4,4,,De Beauvoir,N1 4FA
+253,Torrington Place,875000,House,1050,4,4,4,,London,E1W 2UY
+254,Wadham Road,1350000,House,1604,4,4,4,Putney,London,SW15 2LS
+255,Whiston House,550000,Flat / Apartment,558,2,2,2, Halton Road,London,N1 2DH
+256,Victoria Avenue,1495000,House,2566,5,5,5,Surbiton,Surrey,KT6 5DL
+257,Devonshire Road,850000,House,1163,3,3,3,Chiswick,London,W4 2HD
+258,Dawes Road,1350000,House,1707,4,4,4,,London,SW6 7EJ
+259,Chenies Mews,2000000,Flat / Apartment,1335,2,2,2,,London,WC1E 6HU
+260,St. George's Square,2325000,Penthouse,1895,4,4,4,Pimlico,London,SW1V 3QN
+261,Coleraine Road,1800000,House,2996,5,5,5,Blackheath,London,SE3 7PQ
+262,Murray Street,735000,Flat / Apartment,953,2,2,2,Camden,London,NW1 9RE
+263,Jasmine House,500000,Flat / Apartment,680,2,2,2, Battersea,London,SW18 1GJ
+264,Tring Avenue,1900000,House,2599,5,5,5,,London,W5 3QD
+265,Winsham Grove,950000,Flat / Apartment,1160,3,3,3,,London,SW11 6NE
+266,Ember Lane,1250000,House,1980,4,4,4,Esher,Surrey,KT10 8EQ
+267,Moor Lane,1299000,Flat / Apartment,827,2,2,2,City Of London,London,EC2Y 9BA
+268,Clifton Road,3300000,House,3448,4,4,4,Little Venice,London,W9 1SZ
+269,Cubitt Building,765000,New development,618,1,1,1,10 Gatliff Road,London,SW1W 8QL
+270,Long & Waterson Apartments,550000,Penthouse,414,1,1,1, Hackney,London,E2 8HN
+271,Lavender Gardens,950000,Flat / Apartment,911,2,2,2,,London,SW11 1DJ
+272,Wardian East Tower,575000,New development,531,1,1,1, Canary Wharf,London,E14 9TP
+273,Elwood Street,1350000,House,1629,4,4,4,Highbury,London,N5 1EH
+274,Lilyville Road,3150000,House,3100,5,5,5,Fulham,London,SW6 5DP
+275,Bishops Gate,2100000,New development,1688,4,4,4,82-88 Fulham High Street,London,SW6 3LF
+276,Queenstown Road,700000,Flat / Apartment,940,2,2,2,Battersea,London,SW8 3QD
+277,Bloomsbury Place,500000,Flat / Apartment,622,2,2,2,,London,SW18 2JB
+278,The Lodge,1750000,Flat / Apartment,1002,3,3,3,Kensington Park Gardens,London,W11 3HA
+279,Pavilion Park,555000,New development,753,2,2,2, East Molesey,Surrey,KT8 9DX
+280,Arlington Street,3750000,Penthouse,1589,3,3,3,St James's,London,SW1A 1RD
+281,47 Pilot Walk,995000,Penthouse,1485,3,3,3,Greenwich,London,SE10 0NW
+282,Foskett Road,350000,Flat / Apartment,302,1,1,1,Fulham,London,SW6 3LY
+283,Holland Street,3500000,House,2401,4,4,4,,London,W8 4NA
+284,Gloucester Avenue,799999,Flat / Apartment,483,1,1,1,Primrose Hill,London,NW1 8HX
+285,Park Mansions,1995000,Flat / Apartment,1053,2,2,2,Knightsbridge,London,SW1X 7QS
+286,Bishops Gate,1850000,New development,1462,3,3,3,82-88 Fulham High Street,London,SW6 3LF
+287,Speldhurst Road,1275000,House,1420,4,4,4,Chiswick,London,W4 1BY
+288,Elsham Road,935000,Flat / Apartment,944,2,2,2,,London,W14 8HH
+289,Belsize Park Gardens,4500000,Flat / Apartment,2774,4,4,4,Belsize Park,London,NW3 4LD
+290,East Sheen Avenue,1800000,House,2001,5,5,5,East Sheen,London,SW14 8AU
+291,Chelsea Waterfront,2990000,New development,1451,3,3,3, Chelsea,London,SW10 0QH
+292,Burlington Gate,13750000,Penthouse,2476,3,3,3,25 Cork Street,London,W1S 3NB
+293,Queen Anne's Gate,14850000,House,7800,6,6,6,,London,SW1H 9AA
+294,St. George Wharf,3550000,Flat / Apartment,1862,3,3,3,Vauxhall,London,SW8 2BW
+295,Abercrombie Street,1100000,House,1324,3,3,3,,London,SW11 2JB
+296,Coral Apartments,1100000,Penthouse,1809,2,2,2,17 Western Gateway,London,E16 1AQ
+297,Briary Close,1895000,House,1975,5,5,5,Swiss Cottage,London,NW3 3JZ
+298,Grandison Road,865000,Flat / Apartment,880,2,2,2,,London,SW11 6LN
+299,ICON7,450000,New development,538,1,1,1, Holloway,London,N7 0JN
+300,Eden Grove,599995,Flat / Apartment,926,2,2,2,Lower Holloway,London,N7 8EF
+301,Ravensmede Way,425000,Flat / Apartment,548,2,2,2,,London,W4 1TF
+302,Abercorn Mansions,750000,Flat / Apartment,647,2,2,2,17 Abercorn Place,London,NW8 9DY
+303,Manor Road,2650000,House,3788,4,4,4, Loughton,Essex,IG10 4AD
+304,Westfields,485000,Flat / Apartment,786,3,3,3, Barnes,London,SW13 0PJ
+305,Park Mansions,1350000,Flat / Apartment,1154,4,4,4,Prince of Wales Drive,London,SW11 4HQ
+306,Baldwins Hill,1250000,House,2244,4,4,4,Loughton,Essex,IG10 1SD
+307,Doulton House,1750000,Flat / Apartment,1390,3,3,3,11 Park Street,London,SW6 2FT
+308,Philbeach Gardens,935000,Flat / Apartment,683,2,2,2,,London,SW5 9DY
+309,Edge Hill,3950000,New development,4438,5,5,5,Wimbledon,London,SW19 4NP
+310,Ranelagh House,1000000,Flat / Apartment,985,1,1,1,3-5 Elystan Place,London,SW3 3LD
+311,Castelnau,5750000,House,4682,6,6,6,Barnes,London,SW13 9EU
+312,Ollards Grove,1450000,House,2322,5,5,5,Loughton,Essex,IG10 4DW
+313,Faraday Lodge,565000,Flat / Apartment,895,2,2,2, Greenwich,London,SE10 0QL
+314,Fairacres,1385000,Flat / Apartment,2056,3,3,3, Putney,London,SW15 5LX
+315,Montevetro,2250000,Flat / Apartment,1641,3,3,3, Battersea,London,SW11 3YL
+316,Circle Gardens,825000,House,1388,3,3,3,Wimbledon,London,SW19 3JU
+317,Cadogan Place,1950000,Flat / Apartment,809,2,2,2,,London,SW1X 9RU
+318,Skysail Building,325000,Flat / Apartment,500,1,1,1,210 Poplar High Street,London,E14 0BB
+319,Stanley Crescent,3450000,Penthouse,1575,2,2,2,Notting Hill,London,W11 2NA
+320,Tufton Street,1650000,Flat / Apartment,1099,2,2,2,Westminster,London,SW1P 3AF
+321,Junction House,862000,New development,978,3,3,3, Battersea,London,SW11 2NU
+322,Wavendon Avenue,2350000,House,2297,5,5,5,Chiswick,London,W4 4NR
+323,Wandsworth Common West Side,2550000,House,2665,5,5,5,Wandsworth,London,SW18 2ED
+324,City Mills Apartments,590000,Flat / Apartment,702,2,2,2,Lee Street,London,E8 4FB
+325,Romberg Road,895000,House,1407,4,4,4,,London,SW17 8UB
+326,Rockley Road,3000000,House,2853,5,5,5,,London,W14 0DA
+327,South Terrace,6750000,House,3719,5,5,5,,London,SW7 2TB
+328,Dungarvan Avenue,1295000,House,1647,4,4,4,Putney,London,SW15 5QU
+329,Gillespie Road,550000,Flat / Apartment,585,1,1,1,Highbury,London,N5 1LN
+330,St. Leonards Road,1595000,House,3110,4,4,4,Thames Ditton,Surrey,KT7 0RN
+331,Haberdasher Street,825000,Penthouse,896,3,3,3,,London,N1 6EJ
+332,Barons Walk,885000,New development,1175,3,3,3,Kenninghall Road,London,E5 8DF
+333,Regents Park Road,950000,Flat / Apartment,817,2,2,2,,London,NW1 7TL
+334,Overstrand Mansions,1800000,Flat / Apartment,1453,3,3,3,Prince of Wales Drive,London,SW11 4HA
+335,10 Park Drive,1230000,New development,960,2,2,2,Canary Wharf,London,E14 9SG
+336,ICON7,420000,New development,538,1,1,1, Holloway,London,N7 0JN
+337,Woodfield Lane,3500000,House,4213,7,7,7,,London,SW16 1LF
+338,Ellerby Street,3875000,House,4095,7,7,7, Fulham,London,SW6 6EY
+339,Grove House,650000,Flat / Apartment,1091,3,3,3,27 Frampton Park Road,London,E9 7PQ
+340,Freshford Street,1200000,House,1771,4,4,4,,London,SW18 3TF
